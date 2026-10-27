@@ -1,3 +1,13 @@
+
+> [!TIP]
+> ### ⚡ Need Turnkey Crypto Payments or Cloudflare Bypass?
+> Explore our tested Pro code kits on our **[Web3 Live Storefront](https://9xj89gzrtw-hue.github.io/#products)** (Instant delivery, paid in USDC on Base):
+> - **Telegram Crypto Shop Bot Pro ():** aiogram 3.x, CryptoBot (USDT/TON) + Telegram Stars, auto-delivery, admin panel.
+> - **Universal Scraper Pro ():** Cloudflare & WAF bypass, TLS JA3/JA4 evasion, SOCKS5 proxy pool, Excel/CSV & Telegram alerts.
+> - **10 Landing UI Components & SVG Kit ():** 3D Tilt Cards, Crypto Checkout, Marquee Tickers.
+
+---
+
 # Парсер сайта на Python → CSV / Excel
 
 Демонстрационный проект: обход каталога с пагинацией, разбор карточек и выгрузка
